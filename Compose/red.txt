@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "reddocker",
+        "Id": "7c351596e375d034216ac793c5102883d530fbf7a860a77f13c1e155393cb9b5",
+        "Created": "2023-03-13T22:58:07.898432338-04:00",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": {},
+            "Config": [
+                {
+                    "Subnet": "172.19.0.0/16",
+                    "Gateway": "172.19.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Containers": {},
+        "Options": {},
+        "Labels": {}
+    }
+]
