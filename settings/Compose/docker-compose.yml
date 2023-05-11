@@ -2,7 +2,7 @@ version: '3.9'
 services:
   app:
     build:
-      context: /home/jose/jmg/universidad/Practica-sre
+      context: /home/mr-holk/Documentos/Practica-sre/mvc
       dockerfile: Dockerfile
     ports:
       - "8080:80"
