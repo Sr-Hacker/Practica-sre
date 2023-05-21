@@ -1,7 +1,9 @@
 <?
-  class Errors{
+  class Errors extends Controller{
     function __construct(){
-      echo "error al cargar el recurso";
+      parent::__construct();
+      $this->view->message = 'Error 404';
+      $this->view->render('message/error');
     }
   }
 ?>
