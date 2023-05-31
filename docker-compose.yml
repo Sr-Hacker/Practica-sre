@@ -27,3 +27,7 @@ services:
       - 8082:80
     environment:
       - PMA_ARBITRARY=1
+  uml:
+    image: jgraph/drawio
+    ports:
+      - "8081:8080"
