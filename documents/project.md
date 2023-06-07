@@ -5,11 +5,12 @@
 En este capítulo, se proporcionará una descripción general del proyecto, que tiene como objetivo principal abordar la problemática de la falta de una página informativa de cursos en el Instituto Nacional de Capacitación y Educación Socialista (INCES). Se propondrá la creación de un sistema que permita a los profesores y administradores del INCES registrar y subir información sobre los cursos a Internet, facilitando así el acceso de las personas a esta información.
 
 ## Descripción del Contexto
-El proyecto se desarrollará en el Instituto Nacional de Capacitación y Educación Socialista (INCES). Se describirá el INCES como una institución encargada de ofrecer programas de formación y capacitación a personas interesadas en adquirir conocimientos y habilidades en diferentes áreas. Se destacará la importancia de contar con una página informativa de cursos que brinde detalles sobre los cursos próximos a comenzar.
+El proyecto se desarrollará en el Instituto Nacional de Capacitación y Educación Socialista (INCES) zona industrial. Se describirá el INCES como una institución encargada de ofrecer programas de formación y capacitación a personas interesadas en adquirir conocimientos y habilidades en diferentes áreas. Se destacará la importancia de contar con una página informativa de cursos que brinde detalles sobre los cursos próximos a comenzar.
 
 **Caracterización y naturaleza de la Comunidad:**
+El Instituto Nacional de Cooperación Educativa (INCE) fue creado en 1959 como respuesta a las condiciones socioeconómicas y educativas precarias que prevalecían en Venezuela en ese momento. El país enfrentaba altos índices de analfabetismo, escasa infraestructura educativa y limitado acceso a la formación técnica y profesional. El INCE surge como una necesidad urgente para brindar oportunidades de educación y capacitación a la población.
 
-La comunidad involucrada en el proyecto será el INCES y las personas interesadas en participar en los cursos ofrecidos por esta institución. Se realizará una caracterización de la comunidad, resaltando aspectos demográficos, socioeconómicos y culturales. Se identificarán las necesidades de información de la comunidad y se destacará la importancia de contar con un medio de comunicación efectivo para difundir la información sobre los cursos.
+El INCES se ha convertido en un referente en el ámbito de la educación y la formación técnica en Venezuela. Su labor se ha centrado en brindar oportunidades de aprendizaje y desarrollo a trabajadores, jóvenes y personas en situación de vulnerabilidad, con el objetivo de promover la inclusión social y el crecimiento económico del país. A lo largo de los años, ha demostrado ser una institución comprometida con el fortalecimiento de la educación y el desarrollo de la fuerza laboral venezolana.
 
 ## Descripción del Diagnóstico Situacional
 
