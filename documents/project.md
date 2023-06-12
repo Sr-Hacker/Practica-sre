@@ -34,6 +34,8 @@ Para recolectar los datos necesarios, se emplearon técnicas como entrevistas y 
 
 ## Análisis e interpretación de la información:
 
+Según los resultados de la entrevista, se evidencia que el INCES cuenta actualmente con una página informativa de cursos que cubre exclusivamente las necesidades del INCES de la zona centro de Barquisimeto. Que se enfoca en la capacitación de personal en las áreas de informática y administración. Sin embargo, el INCES de la zona industrial, que busca capacitar personal en el ámbito industrial, carece de estos beneficios. Como resultado, se ven obligados a promocionar sus cursos en una pizarra ubicada en las instalaciones, lo cual resulta poco eficiente debido a que no se encuentra en una zona de alto tránsito. Además, durante las entrevistas con los profesores se reveló que existe una frecuente confusión y malentendidos por parte de los estudiantes debido a la falta de conocimiento acerca de las fechas de inicio de los cursos.
+
 Se presentará el análisis e interpretación de la información recopilada a través de las entrevistas y cuestionarios. Se destacarán las necesidades identificadas y se identificarán los principales requisitos y características del sistema propuesto. Se mostrarán los resultados de manera clara y se interpretarán en relación con los objetivos del proyecto y las necesidades de la comunidad.
 
 ## Descripción de la Solución Propuesta:
