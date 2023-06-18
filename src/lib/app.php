@@ -13,7 +13,7 @@
         $selectController = 'controller/main.php';
         require_once $selectController;
         $controller = new Main();
-        $controller->loadModel('main');
+        $controller->loader_model('main');
         return false;
       }
 

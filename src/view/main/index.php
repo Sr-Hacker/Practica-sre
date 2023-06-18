@@ -22,5 +22,6 @@
   </section>
 
   <?php require 'view/components/layout/footer.php'; ?>
+  <script src="<?php echo constant('URL');?>public/js/paralax.js"></script>
 </body>
 </html>
