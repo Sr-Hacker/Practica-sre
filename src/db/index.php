@@ -1,4 +1,4 @@
-<?
+<?php
   class DB{
     private $HOST;
     private $DB;

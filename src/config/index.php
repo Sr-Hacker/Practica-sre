@@ -1,4 +1,4 @@
-<?
+<?php
   // Base url
   define('URL', 'http://localhost:8080/');
 
