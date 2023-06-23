@@ -8,11 +8,11 @@
   <title>Document</title>
 </head>
 <body>
-  <? require 'view/components/layout/header.php'; ?>
+  <?php require 'view/components/layout/header.php'; ?>
 
   <section>
     <h2 class="main">Vista main</h2>
-      <form action="<? echo constant('URL');?>main/saludo" method="POST">
+      <form action="<?php echo constant('URL');?>main/saludo" method="POST">
         <p>
           <label for="name">Nombre: </label>
           <input type="text" name="name" id="name">
