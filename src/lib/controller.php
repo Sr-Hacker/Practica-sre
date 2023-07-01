@@ -5,8 +5,8 @@
     }
 
     function loader_model($model){
+      echo $model;
       $url = "model/".$model.".php";
-
       if(file_exists($url)){
         require $url;
 

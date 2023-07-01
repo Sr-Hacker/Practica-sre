@@ -19,7 +19,6 @@
 
       //select controller
       $selectController = 'controller/' . $url[0] . '.php';
-
       if(file_exists($selectController)){
         require_once $selectController;
         $controller = new $url[0];
