@@ -9,7 +9,7 @@ nav{
 }
 nav ul{
   display: flex;
-  background-color: aqua;
+  background-color: rgba(2, 14, 14, 0.372);
   border-radius: 15px;
 }
 ul li{
