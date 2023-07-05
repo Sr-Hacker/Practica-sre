@@ -1,4 +1,4 @@
-<?
+<?php
   // Conexion con la base de datos
   require_once 'db/index.php';
   // variables de entorno de la app

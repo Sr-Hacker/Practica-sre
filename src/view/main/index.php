@@ -13,14 +13,14 @@
     <h2 class="paralax_title" id="text">
       INCES
     </h2>
-    <!-- <img src="<? echo constant('URL');?>public/img/hill1.png" id="hill1" alt="hill1">
-    <img src="<? echo constant('URL');?>public/img/hill2.png" id="hill2" alt="hill2">
-    <img src="<? echo constant('URL');?>public/img/hill3.png" id="hill3" alt="hill3">
-    <img src="<? echo constant('URL');?>public/img/hill4.png" id="hill4" alt="hill4">
-    <img src="<? echo constant('URL');?>public/img/hill5.png" id="hill5" alt="hill5">
-    <img src="<? echo constant('URL');?>public/img/leaf.png" id="leaf" alt="leaf">
-    <img src="<? echo constant('URL');?>public/img/plant.png" id="plant" alt="plant">
-    <img src="<? echo constant('URL');?>public/img/tree.png" id="tree" alt="tree"> -->
+    <!-- <img src="php echo constant('URL');?>public/img/hill1.png" id="hill1" alt="hill1">
+    <img src="php echo constant('URL');?>public/img/hill2.png" id="hill2" alt="hill2">
+    <img src="php echo constant('URL');?>public/img/hill3.png" id="hill3" alt="hill3">
+    <img src="php echo constant('URL');?>public/img/hill4.png" id="hill4" alt="hill4">
+    <img src="php echo constant('URL');?>public/img/hill5.png" id="hill5" alt="hill5">
+    <img src="php echo constant('URL');?>public/img/leaf.png" id="leaf" alt="leaf">
+    <img src="php echo constant('URL');?>public/img/plant.png" id="plant" alt="plant">
+    <img src="php echo constant('URL');?>public/img/tree.png" id="tree" alt="tree"> -->
   </section>
   <section class="content">
     <h3 class="main">Que es el INCES</h3>
