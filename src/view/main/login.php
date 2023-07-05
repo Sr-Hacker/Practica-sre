@@ -8,7 +8,7 @@
   <title>Document</title>
 </head>
 <body>
-  <? require 'view/components/layout/header.php'; ?>
+  <?php require 'view/components/layout/header.php'; ?>
   <section class="paralax" style="background: rgba(200, 11, 11, 0.851);">
     <div class="paralax_title" id="text">
       <h2>Iniciar sesion</h2>
